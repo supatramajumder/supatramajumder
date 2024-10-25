@@ -1,5 +1,5 @@
 # Supatra Majumder
-#### Hi there! 👋 I'm Supatra Majumder
+#### Hi there! 👋 
 
 Welcome to my GitHub! I'm a dedicated Cloud Computing and Data Engineering professional based in Toronto, Canada, with hands-on experience in cloud infrastructure, automation, and data engineering. Currently, I'm exploring and building solutions in cloud-native architecture, automation, and security. Here’s a bit about my background and what I’m working on.
 
