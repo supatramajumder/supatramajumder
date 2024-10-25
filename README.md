@@ -7,15 +7,15 @@ Welcome to my GitHub! I'm a dedicated Cloud Computing and Data Engineering profe
 
 ## 🔹 About Me
 - **🌐 Cloud and Data Engineering Enthusiast**: Currently honing my skills in cloud computing, with a strong focus on **AWS** and **Azure** services.
-- **📊 Data Pipeline Specialist**: Experienced in designing data pipelines using ETL tools like **Snowflake** and **Informatica**.
+- **📊 Data Pipeline Specialist**: Experienced in designing data pipelines using ETL tools like **Fivetran**,**Funnel** and **Informatica**.
 - **🚀 Cloud Infrastructure**: Proficient in setting up and managing **cloud infrastructure**, **VPC configurations**, and **Blob Storage containers**.
-- **👷‍♀️ Tech Stack**: Skilled in **Python**, **SQL**, **Shell Scripting**, and **Terraform** for infrastructure as code.
+- **👷‍♀️ Tech Stack**: Skilled in **Python**, **SQL**, **Shell Scripting**,**Databricks**, **Snowflake** and **Hive** for infrastructure as code.
 
 ---
 
 ## 🔹 Current Focus
 I’m actively pursuing projects in:
-- **Cloud Security and Infrastructure Automation**: Implementing secure, scalable solutions using Terraform and Azure Bicep.
+- **Cloud Security and Infrastructure Automation**: Implementing secure, scalable solutions using Terraform and Azure capabilities.
 - **Data Engineering and ETL Development**: Creating optimized data workflows for robust data engineering solutions.
 - **API Development and Monitoring**: Exploring API development to streamline infrastructure and improve data accessibility.
 
@@ -39,7 +39,8 @@ Feel free to reach out if you’re interested in collaboration or have any quest
 
 ## 🔹 Fun Facts
 - **🌿 Nature Enthusiast**: Enjoys nature walks and meditation.
-- **🌟 Continuous Learner**: Regularly attends industry events and meetups, like the Metro Toronto Azure Community.
+- **🎶 Music Lover**: Passionate about discovering new music across the globe.
+- **🌟 Continuous Learner**: Regularly attends industry events and webinars.
 
 ---
 
